@@ -1,0 +1,5 @@
+#!/bin/bash
+
+chmod +x xxxx
+sudo cp -r xxxx /usr/local/sbin
+echo -e now just type sudo xxxx in your terminal have fun 
